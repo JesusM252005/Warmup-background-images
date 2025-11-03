@@ -1,0 +1,21 @@
+html {
+    background-color: aqua;
+    background-image: url(images/1-big-viburnum.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.header {
+    background-color: rgba(127, 255, 212, 80%);
+    padding: 30px;
+}
+
+
+.main {
+    background-color: beige;
+    padding: 30px;
+}
+
